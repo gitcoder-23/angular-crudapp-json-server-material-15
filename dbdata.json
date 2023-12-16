@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "firstName": "Jesoja",
+      "lastName": "Jeso",
+      "email": "fg@gmail.com",
+      "dob": "2023-12-01T18:30:00.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "gh",
+      "experience": "5",
+      "package": "5",
+      "id": 8
+    },
+    {
+      "firstName": "Rachel",
+      "lastName": "Thomson",
+      "email": "rr@gmail.com",
+      "dob": "2023-12-21T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "TOM",
+      "experience": "8",
+      "package": "30",
+      "id": 10
+    },
+    {
+      "firstName": "Rachel",
+      "lastName": "Par",
+      "email": "john@yahoo.com",
+      "dob": "2023-12-21T18:30:00.000Z",
+      "gender": "female",
+      "education": "Post Graduate",
+      "company": "Yahoo",
+      "experience": "10",
+      "package": "12",
+      "id": 11
+    },
+    {
+      "firstName": "Nabo",
+      "lastName": "Rajpurohit",
+      "email": "john@yahoo.com",
+      "dob": "2023-12-15T18:30:00.000Z",
+      "gender": "female",
+      "education": "Intermediate",
+      "company": "BMW",
+      "experience": "10",
+      "package": "30",
+      "id": 14
+    },
+    {
+      "firstName": "Rani",
+      "lastName": "Kumari",
+      "email": "rani@yahoo.com",
+      "dob": "2023-12-20T18:30:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "Google",
+      "experience": "5",
+      "package": "15",
+      "id": 15
+    }
+  ]
+}
